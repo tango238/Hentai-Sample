@@ -4,6 +4,10 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 
+/**
+ * HendaiClassLoader
+ * @author tango
+ */
 public class HentaiClassLoader extends ClassLoader {
 
 	@Override
